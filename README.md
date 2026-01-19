@@ -4,3 +4,5 @@ Ten projekt służy do nauki podstaw Gita.
 
 To jest testowa zmiana w gałęzi eksperyment.
 
+To kolejna zmiana w gałęzi
+
